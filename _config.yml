@@ -1,0 +1,28 @@
+name: 47B
+favicon: null
+layout_spectrum: 0.9551629472989589
+typography_spectrum: 0.4374523328151554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2873114247340709
+  lightness: 0.27889507287181914
+  saturation: 0.3735776641406119
+  rhythmicContrast: 0.4658280978910625
+purpose: []
